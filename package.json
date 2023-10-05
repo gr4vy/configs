@@ -1,0 +1,22 @@
+{
+  "name": "configs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gr4vy <code@gr4vy.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "yarn lerna run build",
+    "dev": "yarn lerna run dev --stream --parallel",
+    "graph": "yarn nx graph"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.7.1",
+    "lerna": "^7.3.0",
+    "nx": "16.9.1"
+  }
+}
