@@ -1,0 +1,39 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.8.2",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".github/dependabot.yml",
+        "hash": "4887881994182586444"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16833679238590951471"
+      },
+      {
+        "file": "lerna.json",
+        "hash": "10307142885639291195"
+      },
+      {
+        "file": "nx.json",
+        "hash": "12737357180903553698"
+      },
+      {
+        "file": "package.json",
+        "hash": "12417208785608399802"
+      },
+      {
+        "file": "renovate.json",
+        "hash": "15232715834174942141"
+      },
+      {
+        "file": "yarn.lock",
+        "hash": "3488433235979568613"
+      }
+    ]
+  }
+}
