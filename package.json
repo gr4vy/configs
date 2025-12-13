@@ -16,7 +16,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.19.25",
-    "lerna": "^8.2.4"
+    "lerna": "^9.0.3"
   },
   "resolutions": {
     "tar": "^6.2.1",
