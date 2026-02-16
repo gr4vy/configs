@@ -15,7 +15,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/node": "^20.19.30",
+    "@types/node": "^20.19.33",
     "lerna": "^9.0.4"
   },
   "resolutions": {
