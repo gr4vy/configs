@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["github>gr4vy/renovate-config:javascript"],
-  "additionalReviewers": ["luca-gr4vy"],
+  "additionalReviewers": ["brunodesde1987", "odeta-gr4vy"],
   "ignorePaths": ["cloudbuild/**", ".github/**"],
   "packageRules": [
     {
